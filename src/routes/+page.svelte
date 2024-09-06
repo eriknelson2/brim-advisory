@@ -194,7 +194,7 @@
             <div class="about-text">
                 <p>Bruce McGoogan is a seasoned leader with more than 25 years of global experience in the food
                 and feed industries. He specializes in bridging technology and business, leading R&amp;D strategy,
-                innovation, and business development. Bruce's career is marked by his ability to forge strong
+                innovation, and business development. Bruce&#39;s career is marked by his ability to forge strong
                 external partnerships and collaborate effectively across internal functions, driving significant
                 business potential and growth from technology. His educational background includes a PhD in
                 Nutrition from Texas A&amp;M University, an MS in Aquaculture from Louisiana State University, and
@@ -216,12 +216,12 @@
         <h2 class="about-header">Consulting Focus Areas</h2>
         <div class="bullet-list-container">
             <ul class="bullet-list">
-                <li>Business Strategy</li>
-                <li>Market/Competitor Intelligence and Opportunity Evaluation</li>
-                <li>Innovation Strategy</li>
-                <li>Innovation Portfolio Development</li>
-                <li>Commercialization Planning</li>
-                <li>Business Development</li>
+                <li>Business strategy</li>
+                <li>Market/competitor intelligence and opportunity evaluation</li>
+                <li>Innovation strategy</li>
+                <li>Innovation portfolio development</li>
+                <li>Commercialization planning</li>
+                <li>Business development</li>
             </ul>
         </div>
     </div>
@@ -239,7 +239,7 @@
     <nav>
         <h6 class="footer-title">Contact Information</h6>
         <div class="footer-content">
-            <p>Address: Fernandina Beach, Florida, USA</p>
+            <p>Fernandina Beach, Florida, USA</p>
             <p>Phone: (952)-338-7597</p>
             <p>Email: mcgoogs1@gmail.com</p>
         </div>
